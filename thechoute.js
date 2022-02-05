@@ -960,8 +960,6 @@ Instagram.com/Jack_paymon
 Instagram.com/anthony_acosta0
 ✞ッ°мαтα°ッ✞
 Instagram.com/manuelmata29
-𝕲ö𝖙𝖙𝖎𝖓.
-Instagram.com/va_exo2
 𝓑𝓮𝓴𝓪.
 instagram.com/ali_quintanilla`
 
@@ -1076,10 +1074,10 @@ if (test.includes(`grupo`)){
   *-Te invito a unirte al grupo de WhatsApp donde:-*
     
   Grupo 1 : 
-  _https://chat.whatsapp.com/JohQrx76epvKBsO7WeHWHm_
+  _https://chat.whatsapp.com/E6rOvmpXby7DtvIRiJxQuA_
   
   Grupo 2 : 
-  _https://chat.whatsapp.com/JohQrx76epvKBsO7WeHWHm_`, MessageType.text, {quoted: choute})
+  _https://chat.whatsapp.com/E6rOvmpXby7DtvIRiJxQuA_`, MessageType.text, {quoted: choute})
   addFilter(from)
     addLevelingLevel(sender, 5)	}}
 
